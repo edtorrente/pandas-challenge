@@ -3,7 +3,7 @@ Pandas DataFrame
 
 ## Analyze data from a most recent fantasy game called, "Heroes of Pymoli", using Jupyter Notebook and Python's Pandas Dataframe.
 
-### The report should include the following:
+### The report includes the following:
 1. Player Count
 2. Purchasing Analysis (Total)
 3. Gender Demographics
